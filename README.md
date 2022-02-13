@@ -7,6 +7,8 @@ I am java developer
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
+[![codewars](https://www.codewars.com/users/ViktorVx/badges/large)](https://www.codewars.com/users/ViktorVx)
 <!--
 **ViktorVx/ViktorVx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
