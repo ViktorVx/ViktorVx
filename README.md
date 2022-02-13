@@ -1,4 +1,4 @@
-### Hi there 👋 I am Viktor Petrov from Moscow
+### Hi there 👋 I am Viktor Petrov from Moscow (Russia 🇷🇺)
 I am java developer 
 <br/>
 <br/>
